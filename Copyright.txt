@@ -1,21 +1,101 @@
-@author NTKhang
-! The source code is written by NTKhang, please don't change the author's name everywhere (Please be a smart user and respect the author because they have been generous without asking for any benefits)
-! Official source code: https://github.com/ntkhang03/Goat-Bot-V2
-! If you do not download the source code from the above address, you are using an unknown version and at risk of having your account hacked
-Thank you for using
-
-
-English:
-! Please do not change the below code, it is very important for the project.
-It is my motivation to maintain and develop the project for free.
-! If you change it, you will be banned forever
-! Please be a smart user and respect the author because they have been generous without asking for any benefits
-Thank you for using
-
-
-Vietnamese:
-! Vui lòng không thay đổi mã bên dưới, nó rất quan trọng đối với dự án.
-Nó là động lực để tôi duy trì và phát triển dự án miễn phí.
-! Nếu thay đổi nó, bạn sẽ bị cấm vĩnh viễn
-! Hãy là một người dùng thông minh và tôn trọng tác giả vì họ đã cống hiền mà không đòi hỏi bất kỳ lợi ích nào
-Cảm ơn bạn đã sử dụng
+[
+    {
+        "key": "dbln",
+        "value": "%7B%2261580209393883%22%3A%228qvd55EP%22%7D",
+        "domain": "facebook.com",
+        "path": "/login/device-based/",
+        "hostOnly": false,
+        "creation": "2025-10-26T10:46:45.759Z",
+        "lastAccessed": "2025-10-26T10:46:45.760Z"
+    },
+    {
+        "key": "datr",
+        "value": "1jf6aH6wF9FlwC6VOkyM18ni",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-10-26T10:46:45.760Z",
+        "lastAccessed": "2025-10-26T10:46:45.760Z"
+    },
+    {
+        "key": "sb",
+        "value": "1jf6aAuk-QWBIJ_sGBlStsDQ",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-10-26T10:46:45.761Z",
+        "lastAccessed": "2025-10-26T10:46:45.761Z"
+    },
+    {
+        "key": "locale",
+        "value": "en_GB",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-10-26T10:46:45.761Z",
+        "lastAccessed": "2025-10-26T10:46:45.761Z"
+    },
+    {
+        "key": "pas",
+        "value": "61580209393883%3AQuIRLqPXQB",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-10-26T10:46:45.761Z",
+        "lastAccessed": "2025-10-26T10:46:45.761Z"
+    },
+    {
+        "key": "vpd",
+        "value": "v1%3B785x393x2.75",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-10-26T10:46:45.761Z",
+        "lastAccessed": "2025-10-26T10:46:45.761Z"
+    },
+    {
+        "key": "c_user",
+        "value": "61580209393883",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-10-26T10:46:45.761Z",
+        "lastAccessed": "2025-10-26T10:46:45.761Z"
+    },
+    {
+        "key": "xs",
+        "value": "30%3AxEv1LlrmgEQyUg%3A2%3A1761230290%3A-1%3A-1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-10-26T10:46:45.761Z",
+        "lastAccessed": "2025-10-26T10:46:45.761Z"
+    },
+    {
+        "key": "fr",
+        "value": "0HhlKxcxdc7Daq0FB.AWdnPIdigMzf8kkR8j6rmoFoAqtfmD-WmgsuEkT4umuo5JMfBmA.Bo-jfW..AAA.0.0.Bo_DLh.AWdFLEQPMvgy47lYrXMTrpZALQ4",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-10-26T10:46:45.761Z",
+        "lastAccessed": "2025-10-26T10:46:45.761Z"
+    },
+    {
+        "key": "wl_cbv",
+        "value": "v2%3Bclient_version%3A2964%3Btimestamp%3A1761358561",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-10-26T10:46:45.761Z",
+        "lastAccessed": "2025-10-26T10:46:45.761Z"
+    },
+    {
+        "key": "fbl_st",
+        "value": "100629911%3BT%3A29355976",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-10-26T10:46:45.761Z",
+        "lastAccessed": "2025-10-26T10:46:45.761Z"
+    }
+]
